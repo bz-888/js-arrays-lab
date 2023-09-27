@@ -23,3 +23,14 @@ Exercise 2:
 foods.push("pizza", "cheesenburger");
 
 console.log('Exercise 2 Result:\n',  foods);
+
+/*
+Exercise 3:
+  - Add the string 'taco' to the foods array so that 'taco' is the first food in the array.
+*/
+
+// Complete Exercise 3 below...
+
+foods.unshift("tacO");
+
+console.log('Exercise 3 Result:\n', foods);
